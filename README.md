@@ -1,8 +1,8 @@
 
-# Hi 👋, I'm Preeti Saxena..
-A passionate Mern Stack developer 
+                                                                            # Hi 👋, I'm Preeti Saxena..
+                                                                          A passionate Mern Stack developer 
 
-🌱 I’m currently learning Full Stack Web Development
+                                                                  🌱 I’m currently learning Full Stack Web Development
 
 # Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
