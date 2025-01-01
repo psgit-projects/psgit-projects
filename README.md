@@ -1,13 +1,14 @@
--  Hi👋, I’m @Preeti Saxena
-- 📫 A passionate Mern Stack developer
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning full Stack Web Development 
+
+Hi 👋, I'm Preeti Saxena
+A passionate web developer 
+
+🌱 I’m currently learning Full Stack Web Development
+💬 Ask me about MERN stack
 
 
-- 💞️ #Language and Tools
-- Bootstrap Html Css #javascript
-- 📫 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Languages and Tools:
+bootstrap css3 figma git html5 javascript mongodb react tailwind node
+
+
 
 
