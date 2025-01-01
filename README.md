@@ -31,7 +31,7 @@ A passionate Mern Stack developer
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Dynamic Stats:
-![Preeti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Preeti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ps-projects=ps-projects&layout=compact&theme=radical)
 
 
 
