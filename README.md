@@ -24,7 +24,7 @@ A passionate Mern Stack developer
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## Dynamic Stats:
+## Psgit-projects Languages:
 ![Preeti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psgit-projects&layout=compact&theme=radical)
 
 
