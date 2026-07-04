@@ -28,7 +28,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 # Psgit-projects Languages:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psgit-projects&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?psgit_projects=psgit-projects&show_icons=true&theme=radical)
 
 
 
