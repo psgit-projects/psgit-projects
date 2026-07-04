@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Priti Saxena..
+# Hi 👋, I'm Preeti Saxena..
   A passionate Mern Stack developer 
 
  🌱 I’m currently learning Full Stack Web Development
