@@ -28,8 +28,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 # Psgit-projects Languages:
-[![Preeti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=psgit-projects&layout=compact&theme=radical&langs_count=8&hide_border=true)](https://github.com/psgit-projects)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=psgit-projects&show_icons=true&theme=radical)
 
 
 
